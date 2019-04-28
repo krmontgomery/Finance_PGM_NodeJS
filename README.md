@@ -1,5 +1,5 @@
 # Finance Program
 
-![] (blob/master/images/First.png)
+<img src="./images/First.png">
 
-![] (blob/master/images/Second.png)
+<img src="./images/Second.png">
