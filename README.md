@@ -17,4 +17,8 @@ For more, a link to the documentation and the <a href="https://www.npmjs.com/pac
 ## Showing the annual totals for income/expenses and the annual remaining amounts
 <img src="./images/Second.png">
 
+## Backlog
+
+Figure out a way to use conditional formatting, otherwise wait for the support for it to come.
+
 ##
