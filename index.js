@@ -10,9 +10,7 @@
 //                                                                   *
 // ==================================================================*
 // Required packages as variables
-const fs = require('fs');
 const Excel = require('exceljs');
-const csv = require('fast-csv');
 const workbook = new Excel.Workbook();
 // ==================================================================*
 // Workbook info configured
@@ -203,7 +201,7 @@ moneyLeftover.font = {
 // ==================================================================*
 //                              WRITING FILES                        *
 // ==================================================================*
-// Code that writes the files, both xlsx and CSV
+// Code that generates the files, both xlsx and CSV
 workbook.xlsx.writeFile('Finance.xlsx')
   .then( (err) => {
       if(err) {
