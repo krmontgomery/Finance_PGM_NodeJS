@@ -1,6 +1,6 @@
 # Example finance program built with the "exceljs" npm package
 
-All values in the current file are placeholder values for a better visualization. 
+###All values in the current file are placeholder values for a better visualization. 
 
 To install the exceljs package, just use the following command:
 
